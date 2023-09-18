@@ -1,0 +1,16 @@
+# Macos
+.DS_Store
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+
+
+# npm / yarn
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# App
+dist/
